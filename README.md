@@ -1,1 +1,3 @@
 # Face-recognition
+This project uses face recognition library to recognize a face in an image. First, we add a known image which is saved in our database. Then, we upload another unknown image which the code compares with the known image and if they match using face recognition library, it gives an output image, highlighting the face by drawing the box around it and labels it with the name we give it. Like in this code, I used images of Robert Downy Junior, so it labels the output image as RDJ as i have instructed in the code. 
+Also, we upoad images in the code by adding the path to the images.
